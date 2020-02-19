@@ -1,2 +1,2 @@
-# nerviskomut
-w
+# DiscordBotApplication
+Destek 
